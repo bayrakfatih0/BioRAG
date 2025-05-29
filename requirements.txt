@@ -1,0 +1,13 @@
+streamlit
+langchain
+faiss-cpu
+huggingface-hub
+python-dotenv
+PyPDF2
+langchain-google-genai
+langchain_community
+langchain_experimental
+sentence-transformers
+langchainhub
+rapidocr-onnxruntime
+pypdf
